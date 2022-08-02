@@ -1,6 +1,6 @@
 # Expense Tracker Project
 
-Open [http://expnstracker.surge.sh](expnstracker) to view the finished product.
+Open [expnstracker](http://expnstracker.surge.sh) to view the finished product.
 
 # Getting Started with Create React App
 
