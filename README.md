@@ -1,3 +1,7 @@
+# Expense Tracker Project
+
+Open [http://expnstracker.surge.sh](expnstracker) to view the finished product.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
