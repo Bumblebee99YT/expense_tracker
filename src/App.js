@@ -1,12 +1,13 @@
-import logo from './logo.svg';
+import React from 'react';
 import './App.css';
 import Child from './Child.js'
+import { TransactionProvider } from './TransactionContext.js';
 
 function App() {
   return (
-    <div>
+    <TransactionProvider>
       <Child />
-    </div>
+    </TransactionProvider>
   );
 }
 
